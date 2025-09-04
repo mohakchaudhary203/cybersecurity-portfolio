@@ -4,7 +4,8 @@
 This repository contains the personal cybersecurity portfolio of **Mohak Chaudhary**, a final-year BCA student. It showcases cybersecurity projects, skills, social links, and a PDF resume in a modern, interactive, dark-themed design.
 
 ## Demo
-You can view the live portfolio [here](https://yourusername.github.io/cybersecurity-portfolio/).
+You can view the live portfolio [here](https://mohakchaudhary203.github.io/cybersecurity-portfolio/
+).
 
 ## Features
 - Dark gradient theme with smooth transitions
